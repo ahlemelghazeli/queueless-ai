@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-emerald-brand: #008F68;
+  --color-emerald-dark: #006B50;
+  --color-emerald-light: #DDF5EB;
+  --color-background: #F4F7F5;
+  --color-text-main: #26332D;
+}
